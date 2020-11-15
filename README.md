@@ -17,6 +17,7 @@ faster than you ever thought possible.
   * [YouTube](https://www.youtube.com/channel/UCHXZG5zyEXAdAC1zPooTKOQ)
   * [Twitter](https://twitter.com/notifications)
   * [Facebook](https://www.facebook.com/alteryx)
+* [Pricing](https://www.alteryx.com/products/platform-details/pricing)
 * [Help](https://help.alteryx.com/)
 
 ## Articles
