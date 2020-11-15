@@ -31,6 +31,7 @@ faster than you ever thought possible.
 ### Promote
 ### Alteryx Analytics Hub
 * [What is Alteryx Analytics Hub? (Video)](https://www.youtube.com/watch?v=uGJ7jYoOF6Q)
+* [Introduction to Alteryx Analytics Hub (Video)](https://www.youtube.com/watch?v=_0IYA0z7uhc) - Automation Meets Intelligence
 
 ## Comparison
 * [Compare Alteryx Designer vs. SSIS](https://www.itcentralstation.com/products/comparisons/alteryx-designer_vs_ssis) - itcentralstation.com
