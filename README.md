@@ -21,6 +21,7 @@ faster than you ever thought possible.
 
 ## Articles
 * [Alteryx File Types](https://help.alteryx.com/current/designer/alteryx-file-types)
+* [Data Types](https://help.alteryx.com/current/designer/data-types)
 
 ## Comparison
 * [Compare Alteryx Designer vs. SSIS](https://www.itcentralstation.com/products/comparisons/alteryx-designer_vs_ssis) - itcentralstation.com
