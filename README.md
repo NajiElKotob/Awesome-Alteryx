@@ -35,6 +35,7 @@ Server provides a scalable server-based analytics solution that lets you create,
 ### Connect
 
 ### Promote
+Promote gives data scientists the tools they need to develop, deploy, and manage their models quickly and reliably, without any need for custom deployment code. 
 
 ### Alteryx Analytics Hub
 With Alteryx Analytics Hub, every team can share analytic assets and automate processes, reports and insights in a central, secure, governed analytics environment.
