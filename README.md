@@ -27,6 +27,7 @@ faster than you ever thought possible.
 ## Alteryx Components
 
 ### Designer
+Alteryx Designer empowers data analysts by combining data preparation, data blending, and analytics – predictive, statistical, and spatial – using the same intuitive user interface.
 
 ### Server
 Server provides a scalable server-based analytics solution that lets you create, publish, and share analytic applications, schedule and automate workflow jobs, create, manage, and share data connections, and control data access.
