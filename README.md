@@ -33,6 +33,7 @@ Alteryx Designer empowers data analysts by combining data preparation, data blen
 Server provides a scalable server-based analytics solution that lets you create, publish, and share analytic applications, schedule and automate workflow jobs, create, manage, and share data connections, and control data access.
 
 ### Connect
+Connect gives knowledge workers the power to discover and understand relevant data assets. It is a social data exploration platform with a single point of entry into the world of data. This gives knowledge workers the power to discover and understand data assets relevant to their business.
 
 ### Promote
 Promote gives data scientists the tools they need to develop, deploy, and manage their models quickly and reliably, without any need for custom deployment code. 
