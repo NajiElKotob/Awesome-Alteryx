@@ -36,3 +36,4 @@ faster than you ever thought possible.
 
 ## Comparison
 * [Compare Alteryx Designer vs. SSIS](https://www.itcentralstation.com/products/comparisons/alteryx-designer_vs_ssis) - itcentralstation.com
+* [Alteryx Desiger (Capterra)](https://www.capterra.com/p/145696/Alteryx-Designer/)
