@@ -33,8 +33,11 @@ Alteryx Designer empowers data analysts by combining data preparation, data blen
 Server provides a scalable server-based analytics solution that lets you create, publish, and share analytic applications, schedule and automate workflow jobs, create, manage, and share data connections, and control data access.
 
 ### Connect
+
 ### Promote
+
 ### Alteryx Analytics Hub
+With Alteryx Analytics Hub, every team can share analytic assets and automate processes, reports and insights in a central, secure, governed analytics environment.
 * [What is Alteryx Analytics Hub? (Video)](https://www.youtube.com/watch?v=uGJ7jYoOF6Q)
 * [Introduction to Alteryx Analytics Hub (Video)](https://www.youtube.com/watch?v=_0IYA0z7uhc) - Automation Meets Intelligence
 
