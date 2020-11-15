@@ -14,6 +14,8 @@ faster than you ever thought possible.
 * [Twitter](https://twitter.com/notifications)
 * [Facebook](https://www.facebook.com/alteryx)
 
+## Articles
+* [Alteryx File Types](https://help.alteryx.com/current/designer/alteryx-file-types)
 
 ## Comparison
 * [Compare Alteryx Designer vs. SSIS](https://www.itcentralstation.com/products/comparisons/alteryx-designer_vs_ssis) - itcentralstation.com
