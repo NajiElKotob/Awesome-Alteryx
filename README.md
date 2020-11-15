@@ -27,7 +27,10 @@ faster than you ever thought possible.
 ## Alteryx Components
 
 ### Designer
+
 ### Server
+Server provides a scalable server-based analytics solution that lets you create, publish, and share analytic applications, schedule and automate workflow jobs, create, manage, and share data connections, and control data access.
+
 ### Connect
 ### Promote
 ### Alteryx Analytics Hub
