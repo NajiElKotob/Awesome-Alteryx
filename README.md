@@ -20,6 +20,9 @@ faster than you ever thought possible.
 * [Pricing](https://www.alteryx.com/products/platform-details/pricing)
 * [Help](https://help.alteryx.com/)
 
+## Learning 
+* [Video Training Index](https://community.alteryx.com/t5/Videos/Video-Training-Index/td-p/45161)
+
 ## Articles
 * [Alteryx File Types](https://help.alteryx.com/current/designer/alteryx-file-types)
 * [Data Types](https://help.alteryx.com/current/designer/data-types)
