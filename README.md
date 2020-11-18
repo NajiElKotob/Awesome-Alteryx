@@ -21,6 +21,7 @@ faster than you ever thought possible.
 * [Help](https://help.alteryx.com/)
 
 ## Learning 
+* [The Alteryx Product Certification Program](https://community.alteryx.com/t5/Certification/bd-p/product-certification)
 * [Video Training Index](https://community.alteryx.com/t5/Videos/Video-Training-Index/td-p/45161)
 
 ## Articles
