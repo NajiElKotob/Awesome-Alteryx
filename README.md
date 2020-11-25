@@ -25,14 +25,16 @@ faster than you ever thought possible.
 * [Video Training Index](https://community.alteryx.com/t5/Videos/Video-Training-Index/td-p/45161)
 * [Tool Mastery Index](https://community.alteryx.com/t5/Alteryx-Designer-Knowledge-Base/Tool-Mastery-Index/ta-p/84593)
 
-## Articles
-* [Alteryx File Types](https://help.alteryx.com/current/designer/alteryx-file-types)
-* [Data Types](https://help.alteryx.com/current/designer/data-types)
 
 ## Alteryx Components
 
 ### Designer
 Alteryx Designer empowers data analysts by combining data preparation, data blending, and analytics – predictive, statistical, and spatial – using the same intuitive user interface.
+
+### Articles
+* [Alteryx File Types](https://help.alteryx.com/current/designer/alteryx-file-types)
+* [Data Types](https://help.alteryx.com/current/designer/data-types)
+
 
 ### Server
 Server provides a scalable server-based analytics solution that lets you create, publish, and share analytic applications, schedule and automate workflow jobs, create, manage, and share data connections, and control data access.
