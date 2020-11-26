@@ -26,6 +26,15 @@ faster than you ever thought possible.
 * [Video Training Index](https://community.alteryx.com/t5/Videos/Video-Training-Index/td-p/45161)
 * [Tool Mastery Index](https://community.alteryx.com/t5/Alteryx-Designer-Knowledge-Base/Tool-Mastery-Index/ta-p/84593)
 
+### Certifications
+
+#### Alteryx Designer Core
+
+#### Alteryx Designer Advanced
+* [Advanced Certification Prep - Part V](https://www.youtube.com/watch?v=dBtaf95yhKg) - Advanced Prep/Parsing Concepts and Tools
+
+#### Alteryx Designer Expert
+
 
 ## Alteryx Components
 
