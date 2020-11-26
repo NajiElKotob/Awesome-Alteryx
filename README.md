@@ -53,4 +53,5 @@ With Alteryx Analytics Hub, every team can share analytic assets and automate pr
 
 ## Comparison
 * [Compare Alteryx Designer vs. SSIS](https://www.itcentralstation.com/products/comparisons/alteryx-designer_vs_ssis) - itcentralstation.com
+* [Alteryx vs Microsoft](https://www.gartner.com/reviews/market/data-preparation-tools/compare/alteryx-vs-microsoft) - Gartner
 * [Alteryx Desiger (Capterra)](https://www.capterra.com/p/145696/Alteryx-Designer/)
