@@ -47,7 +47,8 @@ Alteryx Designer empowers data analysts by combining data preparation, data blen
 * [Alteryx File Types](https://help.alteryx.com/current/designer/alteryx-file-types)
 * [Data Types](https://help.alteryx.com/current/designer/data-types)
 * [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
-
+  * [Regular Expressions 101 (Tool)](https://regex101.com/)
+  
 ### Server
 Server provides a scalable server-based analytics solution that lets you create, publish, and share analytic applications, schedule and automate workflow jobs, create, manage, and share data connections, and control data access.
 * [Top 10 Alteryx Server Frequently Asked Questions](https://community.alteryx.com/t5/Engine-Works/Top-10-Alteryx-Server-Frequently-Asked-Questions/ba-p/21645)
