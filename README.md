@@ -33,7 +33,8 @@ faster than you ever thought possible.
 #### Alteryx Designer Core
 
 #### Alteryx Designer Advanced
-* [Advanced Certification Prep - Part V](https://www.youtube.com/watch?v=dBtaf95yhKg) - Advanced Prep/Parsing Concepts and Tools
+* [Part I - Spatial Analytics in Alteryx](https://www.youtube.com/watch?v=5wLU9wc7tkk&feature=emb_logo)[Source](https://community.alteryx.com/t5/Videos/Advanced-Certification-Prep-Part-I/m-p/351816)
+* [Part V - Advanced Certification Prep](https://www.youtube.com/watch?v=dBtaf95yhKg) - Advanced Prep/Parsing Concepts and Tools
 
 #### Alteryx Designer Expert
 
