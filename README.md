@@ -70,6 +70,13 @@ Server provides a scalable server-based analytics solution that lets you create,
 * [Configuring Alteryx Server (Video)](https://www.youtube.com/watch?v=yPK56v-lXdE&feature=youtu.be) - Alteryx
 * [Server Scheduling (Video)](https://www.youtube.com/watch?v=kOhUHGjwAGA) - Data Prep U
 * [Alteryx Server 101: Organizing Content in the Alteryx Gallery](https://www.tessellationtech.io/organize-alteryx-server-gallery/) - tessellationtech.io
+* Web Browser
+* Gallery
+* Controller
+* Scheduler
+* Persistence
+* Worker
+* Scaling
 
 ### Connect
 Connect gives knowledge workers the power to discover and understand relevant data assets. It is a social data exploration platform with a single point of entry into the world of data. This gives knowledge workers the power to discover and understand data assets relevant to their business.
