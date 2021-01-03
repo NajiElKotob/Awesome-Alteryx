@@ -56,6 +56,7 @@ Alteryx Designer empowers data analysts by combining data preparation, data blen
 * [Data Types](https://help.alteryx.com/current/designer/data-types)
 * [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
   * [Regular Expressions 101 (Tool)](https://regex101.com/)
+* [Making your Alteryx Workflows Enterprise Ready: A checklist](https://www.theinformationlab.co.uk/2017/08/21/making-alteryx-workflow-enterprise-ready-checklist/) - theinformationlab.co.uk
 
 #### Macros
 * [Read All Excel Worksheets Macro](https://community.alteryx.com/t5/Engine-Works/The-Ultimate-Alteryx-Holiday-gift-of-2015-Read-All-Excel/ba-p/5558)
