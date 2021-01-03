@@ -61,6 +61,7 @@ Alteryx Designer empowers data analysts by combining data preparation, data blen
 ### Server
 Server provides a scalable server-based analytics solution that lets you create, publish, and share analytic applications, schedule and automate workflow jobs, create, manage, and share data connections, and control data access.
 * [Top 10 Alteryx Server Frequently Asked Questions](https://community.alteryx.com/t5/Engine-Works/Top-10-Alteryx-Server-Frequently-Asked-Questions/ba-p/21645)
+* [Server Scheduling (Video)](https://www.youtube.com/watch?v=kOhUHGjwAGA) - Data Prep U
 
 ### Connect
 Connect gives knowledge workers the power to discover and understand relevant data assets. It is a social data exploration platform with a single point of entry into the world of data. This gives knowledge workers the power to discover and understand data assets relevant to their business.
