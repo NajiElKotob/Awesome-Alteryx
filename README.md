@@ -27,6 +27,7 @@ faster than you ever thought possible.
 * [The Alteryx Product Certification Program](https://community.alteryx.com/t5/Certification/bd-p/product-certification)
 * [Video Training Index](https://community.alteryx.com/t5/Videos/Video-Training-Index/td-p/45161)
 * [Tool Mastery Index](https://community.alteryx.com/t5/Alteryx-Designer-Knowledge-Base/Tool-Mastery-Index/ta-p/84593)
+* [Live Training (YouTube)](https://www.youtube.com/watch?v=tNMyd7OB75I&list=PLfSLx4WE4q50eriX-fpzQdaSCfxuKT8tZ)
 
 ### Certifications
 
