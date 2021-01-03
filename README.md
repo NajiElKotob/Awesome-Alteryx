@@ -66,14 +66,17 @@ Alteryx Designer empowers data analysts by combining data preparation, data blen
 
 ### Server
 Server provides a scalable server-based analytics solution that lets you create, publish, and share analytic applications, schedule and automate workflow jobs, create, manage, and share data connections, and control data access.
-* [Top 10 Alteryx Server Frequently Asked Questions](https://community.alteryx.com/t5/Engine-Works/Top-10-Alteryx-Server-Frequently-Asked-Questions/ba-p/21645)
-* [Configuring Alteryx Server (Video)](https://www.youtube.com/watch?v=yPK56v-lXdE&feature=youtu.be) - Alteryx
-* [Server Scheduling (Video)](https://www.youtube.com/watch?v=kOhUHGjwAGA) - Data Prep U
-* [Alteryx Server 101: Organizing Content in the Alteryx Gallery](https://www.tessellationtech.io/organize-alteryx-server-gallery/) - tessellationtech.io
+* General
+  * [Top 10 Alteryx Server Frequently Asked Questions](https://community.alteryx.com/t5/Engine-Works/Top-10-Alteryx-Server-Frequently-Asked-Questions/ba-p/21645)
+* Setup and Configuration
+  * [Configuring Alteryx Server (Video)](https://www.youtube.com/watch?v=yPK56v-lXdE&feature=youtu.be) - Alteryx
 * Web Browser
 * Gallery
+  * [Alteryx Server 101: Organizing Content in the Alteryx Gallery](https://www.tessellationtech.io/organize-alteryx-server-gallery/) - tessellationtech.io
 * Controller
 * Scheduler
+  * [Scheduling An Alteryx Workflow to Run On the Last Business Day of the Month](https://www.bigmountainanalytics.com/scheduling-an-alteryx-workflow-to-run-on-the-last-business-day-of-the-month/) - bigmountainanalytics.com
+  * [Server Scheduling (Video)](https://www.youtube.com/watch?v=kOhUHGjwAGA) - Data Prep U
 * Persistence
 * Worker
 * Scaling
