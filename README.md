@@ -75,6 +75,7 @@ With Alteryx Analytics Hub, every team can share analytic assets and automate pr
 
 ----
 ## Integration
+* [Power BI with Alteryx Integration](https://www.youtube.com/watch?v=Q-SAVuI3Ha4) - Export Data from Alteryx to Power BI
 * [How to Publish Data from Alteryx to Power BI](https://www.youtube.com/watch?v=7Q494LEqBgs)
 
 ----
