@@ -57,6 +57,9 @@ Alteryx Designer empowers data analysts by combining data preparation, data blen
 * [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
   * [Regular Expressions 101 (Tool)](https://regex101.com/)
 
+#### Macros
+* [Read All Excel Worksheets Macro](https://community.alteryx.com/t5/Engine-Works/The-Ultimate-Alteryx-Holiday-gift-of-2015-Read-All-Excel/ba-p/5558)
+
 #### Cheat Sheet
 * [Tools in the Alteryx Designer](https://www.alteryx.com/sites/default/files/alteryx-designer-tools-sheet_0.pdf)
 -----
