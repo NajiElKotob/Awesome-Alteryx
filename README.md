@@ -72,6 +72,12 @@ With Alteryx Analytics Hub, every team can share analytic assets and automate pr
 * [What is Alteryx Analytics Hub? (Video)](https://www.youtube.com/watch?v=uGJ7jYoOF6Q)
 * [Introduction to Alteryx Analytics Hub (Video)](https://www.youtube.com/watch?v=_0IYA0z7uhc) - Automation Meets Intelligence
 
+----
+## Integration
+* [How to Publish Data from Alteryx to Power BI](https://www.youtube.com/watch?v=7Q494LEqBgs)
+
+----
+
 ## Comparison
 * [Compare Alteryx Designer vs. SSIS](https://www.itcentralstation.com/products/comparisons/alteryx-designer_vs_ssis) - itcentralstation.com
 * [Alteryx vs Microsoft](https://www.gartner.com/reviews/market/data-preparation-tools/compare/alteryx-vs-microsoft) - Gartner
