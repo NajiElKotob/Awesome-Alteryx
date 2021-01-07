@@ -63,6 +63,10 @@ Alteryx Designer empowers data analysts by combining data preparation, data blen
 
 #### Cheat Sheet
 * [Tools in the Alteryx Designer](https://www.alteryx.com/sites/default/files/alteryx-designer-tools-sheet_0.pdf)
+
+#### Troubleshooting
+* [Complete Uninstall of Alteryx Designer](https://community.alteryx.com/t5/Alteryx-Designer-Knowledge-Base/Complete-Uninstall-of-Alteryx-Designer/ta-p/402897)
+
 -----
 
 ### Server
