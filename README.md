@@ -30,7 +30,7 @@ faster than you ever thought possible.
 * [Tool Mastery Index](https://community.alteryx.com/t5/Alteryx-Designer-Knowledge-Base/Tool-Mastery-Index/ta-p/84593)
 * 3-2-1 Go
   * [The Alteryx Guide for Excel Users](https://www.alteryx.com/alteryx-excel)
-  * [Start Solving in Minutes](https://www.alteryx.com/resources/resource-library/starter-kits) - Ready-to-use solutions to speed your analytic outcomes
+  * [Starter Kits include dummy data to test](https://www.alteryx.com/resources/resource-library/starter-kits) - Ready-to-use solutions to speed your analytic outcomes
   
 ### YouTube :tv:
 * [Live Training (YouTube)](https://www.youtube.com/watch?v=tNMyd7OB75I&list=PLfSLx4WE4q50eriX-fpzQdaSCfxuKT8tZ)
