@@ -36,6 +36,11 @@ faster than you ever thought possible.
 * [Live Training (YouTube)](https://www.youtube.com/watch?v=tNMyd7OB75I&list=PLfSLx4WE4q50eriX-fpzQdaSCfxuKT8tZ)
 * [Data Prep U](https://www.youtube.com/c/DataPrepU)
 
+### Articles
+* [Where Will Alteryx Be in 5 Years?](https://www.fool.com/investing/2020/06/06/where-will-alteryx-be-in-5-years.aspx) - Nicholas Rossolillo (June 2020)
+
+-----
+
 ### Certifications
 
 #### Alteryx Designer Core
