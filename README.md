@@ -81,6 +81,16 @@ Alteryx Designer empowers data analysts by combining data preparation, data blen
 #### Troubleshooting
 * [Complete Uninstall of Alteryx Designer](https://community.alteryx.com/t5/Alteryx-Designer-Knowledge-Base/Complete-Uninstall-of-Alteryx-Designer/ta-p/402897)
 
+#### Tips
+* Setup the Canvas (Layout, Color, Grid, Connection type)
+* Favorites (Add to Favorite, Pin tool set)
+* Use Comment tool (Text, Image), Annotation (Position) and // or /**/ (Script)
+* Container tool (Disable/Enable, Caption, Open/Close)
+* Connection (Wireless, Insert after, Delete and Connect Around)
+* Layout (Align CTRL/Shift/+-, Distribute)
+* Shortcuts and hotkeys (CTRL+Tab, CTRL+S or CTRL+Shift+S, CTRL+F, CTRL+MouseScroll, F5)
+
+
 -----
 
 ### Server
