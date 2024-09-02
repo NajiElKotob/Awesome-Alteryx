@@ -31,7 +31,9 @@ faster than you ever thought possible.
 * 3-2-1 Go
   * [The Alteryx Guide for Excel Users](https://www.alteryx.com/alteryx-excel)
   * [Starter Kits include dummy data to test](https://www.alteryx.com/resources/resource-library/starter-kits) - Ready-to-use solutions to speed your analytic outcomes
-  
+* Alteryx Docs
+  - Alteryx Desktop and On-Premises
+    - [Designer](https://help.alteryx.com/current/en/designer.html)  
 ### YouTube :tv:
 * [Live Training (YouTube)](https://www.youtube.com/watch?v=tNMyd7OB75I&list=PLfSLx4WE4q50eriX-fpzQdaSCfxuKT8tZ)
 * [Data Prep U](https://www.youtube.com/c/DataPrepU)
